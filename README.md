@@ -10,3 +10,5 @@ To run the probability prediction for submission:
 *Once all 3 files are runned, 3 csv files should be available under the user's directory.
 
 *Now, user can run the file named weighted average.R, this file will result in the final csv for submission.
+
+(under the name weighted_average_predictions.csv)
