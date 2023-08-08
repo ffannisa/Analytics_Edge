@@ -1,4 +1,4 @@
-## The Analytics Edge - Kaggle Data Competition
+# The Analytics Edge - Kaggle Data Competition
 # Predicting Car Safety features Package
 
 Result: A mLogloss of 1.25 in the private leaderboard and 1.26 in the public leaderboard. Manage to be able to be in the top 3 groups based on leaderboard.
